@@ -1,9 +1,9 @@
 # Shipping noise modeling
 # Environmental risk assessment
 # Ocean acoustic tomography
-# Habitat modeling
+# Species habitat modeling
 # Marine technologies
 
-# Personal side projects
+# Side projects
 ## Science management
 ## Reshuffling the world
