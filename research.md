@@ -1,12 +1,14 @@
 # Shipping noise modelling
-Ship-generated vibrations propagate underwater.
+
 <details>
-<summary> [See more...](https://faulanier.github.io/shipping_noise_modelling)
-   </summary>
+   <summary> Shipping noise modelling </summary>
+   <p>
+   Shipping noise modelling
+   ---
+   Ship-generated vibrations propagate underwater.
+   [See more...](https://faulanier.github.io/shipping_noise_modelling)
 
-
-
-yes, even hidden code blocks!
+   yes, even hidden code blocks!
 
 <!--
 ```python
@@ -14,7 +16,7 @@ print("hello world!")
 ```
 -->
 
-
+   </p>
 </details>
 
 
