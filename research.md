@@ -26,5 +26,8 @@ print("hello world!")
 # Marine technologies
 
 # Side projects
+
+<!--
 ## Science management
 ## Reshuffling the world
+-->
