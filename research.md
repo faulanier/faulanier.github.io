@@ -1,4 +1,3 @@
-# Shipping noise modeling
 # Environmental risk assessment
 # Ocean acoustic tomography
 # Species habitat modeling
