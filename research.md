@@ -3,22 +3,21 @@
 <details>
    <summary> Shipping noise modelling </summary>
    <p>
-   Shipping noise modelling
-   ---
-   Ship-generated vibrations propagate underwater.
-   [See more...](https://faulanier.github.io/shipping_noise_modelling)
-
-   yes, even hidden code blocks!
-
-<!--
-```python
-print("hello world!")
-```
--->
+      
+   Ship-generated vibrations propagate underwater. [See more...](https://faulanier.github.io/shipping_noise_modelling)
+   
 
    </p>
 </details>
 
+<!--
+Integrate code wirh pyhthon syntactic color 
+
+```python
+print("hello world!")
+```
+
+-->
 
 
 # Environmental risk assessment
